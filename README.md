@@ -107,3 +107,8 @@ Windows, macOS, Linux supported.
 
 **Common installation issues?**
 Permission errors often resolved by running as admin.
+
+## Read Also
+- [How to Install QuickBooks Desktop Enterprise](https://github.com/taitapxe/quickbook/blob/main/README.md)
+- [How to Install CoinTracker: Step-by-Step Guide](https://github.com/taitapxe/quickbooks/blob/main/README.md)
+- [Sierra Chart Software: A Comprehensive Installation Guide ](https://github.com/taitapxe/sierra_chart/blob/main/README.md)
