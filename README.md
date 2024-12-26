@@ -69,6 +69,7 @@ _Time Required: 15 minutes_
 Tips:
 - Regularly update currency rates within the app.
 
+*Author's Note: I encourage you to read the article [Download QuickBooks Simple Start Software](https://sandpipercoveapts.com/free-quickbooks-simple-start-software-download/) for Free to learn how to access and use this powerful tool without any cost. It’s an excellent resource for simplifying your accounting processes.*
 
 ## Common Issues Solutions
 _Time Required: 10 minutes_
