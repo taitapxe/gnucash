@@ -58,6 +58,8 @@ For advanced users:
 - Completion message appears.
 - Shortcut icon created on desktop.
 
+*Personal Recommendation: I recommend reading the article "Mastering Invoice Status Management in QuickBooks – Marking Invoices as Unpaid" (https://sandpipercoveapts.com/quickbooks-how-to-mark-invoice-as-unpaid) to learn how to efficiently manage invoice statuses. This guide provides practical tips to help you keep your financial records organized and accurate.*
+
 ## Post-installation Setup
 _Time Required: 15 minutes_
 
